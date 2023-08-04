@@ -11,12 +11,12 @@
       <![CDATA[Opening MakeMyTrip]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-03T23:26:10 PDT" name="Suite" finished-at="2023-08-03T23:26:59 PDT" duration-ms="48634">
+  <suite started-at="2023-08-03T23:46:00 PDT" name="Suite" finished-at="2023-08-03T23:46:47 PDT" duration-ms="47173">
     <groups>
     </groups>
-    <test started-at="2023-08-03T23:26:10 PDT" name="Test" finished-at="2023-08-03T23:26:59 PDT" duration-ms="48634">
+    <test started-at="2023-08-03T23:46:00 PDT" name="Test" finished-at="2023-08-03T23:46:47 PDT" duration-ms="47173">
       <class name="bookingSites.RedBus">
-        <test-method signature="f()[pri:0, instance:bookingSites.RedBus@7c7b252e]" started-at="2023-08-03T23:26:10 PDT" name="f" finished-at="2023-08-03T23:26:29 PDT" duration-ms="18506" status="PASS">
+        <test-method signature="f()[pri:0, instance:bookingSites.RedBus@7c7b252e]" started-at="2023-08-03T23:46:00 PDT" name="f" finished-at="2023-08-03T23:46:18 PDT" duration-ms="17971" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening RedBus]]>
@@ -25,7 +25,7 @@
         </test-method> <!-- f -->
       </class> <!-- bookingSites.RedBus -->
       <class name="bookingSites.IRCTC">
-        <test-method signature="IrctcTest()[pri:0, instance:bookingSites.IRCTC@55182842]" started-at="2023-08-03T23:26:29 PDT" name="IrctcTest" finished-at="2023-08-03T23:26:41 PDT" duration-ms="12546" status="PASS">
+        <test-method signature="IrctcTest()[pri:0, instance:bookingSites.IRCTC@55182842]" started-at="2023-08-03T23:46:18 PDT" name="IrctcTest" finished-at="2023-08-03T23:46:30 PDT" duration-ms="12363" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening IRCTC]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- IrctcTest -->
       </class> <!-- bookingSites.IRCTC -->
       <class name="bookingSites.MakeMyTrip">
-        <test-method signature="MakeMyTripTest()[pri:0, instance:bookingSites.MakeMyTrip@3270d194]" started-at="2023-08-03T23:26:41 PDT" name="MakeMyTripTest" finished-at="2023-08-03T23:26:59 PDT" duration-ms="17468" status="PASS">
+        <test-method signature="MakeMyTripTest()[pri:0, instance:bookingSites.MakeMyTrip@3270d194]" started-at="2023-08-03T23:46:30 PDT" name="MakeMyTripTest" finished-at="2023-08-03T23:46:47 PDT" duration-ms="16724" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Opening MakeMyTrip]]>

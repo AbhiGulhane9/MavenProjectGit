@@ -10,7 +10,7 @@ public class Paytm {
   public void Paytmtest() throws InterruptedException 
   {
 	  WebDriver driver = new ChromeDriver();
-	  Reporter.log("Opening Paym", true);
+	  Reporter.log("Opening Paytm", true);
 	  driver.get("https://tickets.paytm.com/flights/");
 	  Thread.sleep(3000);
 	  driver.close();

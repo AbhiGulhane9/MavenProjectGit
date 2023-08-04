@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class RedBus {
   @Test
-  public void f() throws InterruptedException 
+  public void RedbusTest() throws InterruptedException 
   {
 	  WebDriver driver = new ChromeDriver();
 	  Reporter.log("Opening RedBus", true);
