@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Opening RedBus]]>
+    </line>
+    <line>
+      <![CDATA[Opening IRCTC]]>
+    </line>
+    <line>
+      <![CDATA[Opening MakeMyTrip]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-03T23:26:10 PDT" name="Suite" finished-at="2023-08-03T23:26:59 PDT" duration-ms="48634">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T23:26:10 PDT" name="Test" finished-at="2023-08-03T23:26:59 PDT" duration-ms="48634">
+      <class name="bookingSites.RedBus">
+        <test-method signature="f()[pri:0, instance:bookingSites.RedBus@7c7b252e]" started-at="2023-08-03T23:26:10 PDT" name="f" finished-at="2023-08-03T23:26:29 PDT" duration-ms="18506" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening RedBus]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- bookingSites.RedBus -->
+      <class name="bookingSites.IRCTC">
+        <test-method signature="IrctcTest()[pri:0, instance:bookingSites.IRCTC@55182842]" started-at="2023-08-03T23:26:29 PDT" name="IrctcTest" finished-at="2023-08-03T23:26:41 PDT" duration-ms="12546" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening IRCTC]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- IrctcTest -->
+      </class> <!-- bookingSites.IRCTC -->
+      <class name="bookingSites.MakeMyTrip">
+        <test-method signature="MakeMyTripTest()[pri:0, instance:bookingSites.MakeMyTrip@3270d194]" started-at="2023-08-03T23:26:41 PDT" name="MakeMyTripTest" finished-at="2023-08-03T23:26:59 PDT" duration-ms="17468" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening MakeMyTrip]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MakeMyTripTest -->
+      </class> <!-- bookingSites.MakeMyTrip -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
