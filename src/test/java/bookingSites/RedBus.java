@@ -11,7 +11,7 @@ public class RedBus {
   {
 	  WebDriver driver = new ChromeDriver();
 	  Reporter.log("Opening RedBus", true);
-	  driver.get("https://www.redbus.in/");
+	  driver.get("https://www.redbus.in");
 	  Thread.sleep(3000);
 	  driver.close();
 	  
