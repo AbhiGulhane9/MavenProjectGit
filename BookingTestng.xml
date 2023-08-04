@@ -6,6 +6,7 @@
       <class name="bookingSites.RedBus"/>
       <class name="bookingSites.IRCTC"/>
       <class name="bookingSites.MakeMyTrip"/>
+      <class name="bookingSites.Paytm"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

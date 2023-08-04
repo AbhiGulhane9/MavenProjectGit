@@ -11,7 +11,7 @@ public class MakeMyTrip {
   { 
 	  WebDriver driver = new ChromeDriver();
   Reporter.log("Opening MakeMyTrip", true);
-  driver.get("https://www.makemytrip.com/");
+  driver.get("https://www.makemytrip.com");
   Thread.sleep(3000);
   driver.close();
 	  
