@@ -7,6 +7,7 @@
       <class name="bookingSites.IRCTC"/>
       <class name="bookingSites.MakeMyTrip"/>
       <class name="bookingSites.Paytm"/>
+      <class name="bookingSites.Trivago"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

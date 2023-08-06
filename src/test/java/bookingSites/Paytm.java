@@ -11,7 +11,7 @@ public class Paytm {
   {
 	  WebDriver driver = new ChromeDriver();
 	  Reporter.log("Opening Paytm", true);
-	  driver.get("https://tickets.paytm.com/flights");
+	  driver.get("https://paytm.com/");
 	  Thread.sleep(3000);
 	  driver.close();
   }
