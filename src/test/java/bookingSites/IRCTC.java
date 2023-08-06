@@ -11,7 +11,7 @@ public class IRCTC {
   {
 	  WebDriver driver = new ChromeDriver();
 	  Reporter.log("Opening IRCTC", true);
-	  driver.get("https://www.irctc.co.in");
+	  driver.get("https://www.irctc.co.in/");
 	  Thread.sleep(3000);
 	  driver.close();
   }

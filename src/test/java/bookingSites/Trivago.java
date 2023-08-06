@@ -5,15 +5,15 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class MakeMyTrip {
+public class Trivago {
   @Test
-  public void MakeMyTripTest() throws InterruptedException 
-  { 
+  public void TrivagoTest() throws InterruptedException 
+  {
 	  WebDriver driver = new ChromeDriver();
-  Reporter.log("Opening MakeMyTrip", true);
-  driver.get("https://www.makemytrip.com/");
-  Thread.sleep(5000);
-  driver.close();
+	  Reporter.log("Opening Trivago", true);
+	  driver.get("https://www.trivago.in/");
+	  Thread.sleep(5000);
+	  driver.close();
 	  
   }
 }
