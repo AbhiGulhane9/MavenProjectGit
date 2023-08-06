@@ -8,6 +8,7 @@
       <class name="bookingSites.MakeMyTrip"/>
       <class name="bookingSites.Paytm"/>
       <class name="bookingSites.Trivago"/>
+      <class name="bookingSites.GoIbibo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
