@@ -9,6 +9,7 @@
       <class name="bookingSites.Paytm"/>
       <class name="bookingSites.Trivago"/>
       <class name="bookingSites.GoIbibo"/>
+      <class name="bookingSites.Agoda"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
