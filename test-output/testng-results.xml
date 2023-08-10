@@ -20,12 +20,22 @@
       <![CDATA[Opening MakeMyTrip]]>
     </line>
   </reporter-output>
+<<<<<<< HEAD
+  <suite started-at="2023-08-05T20:34:32 PDT" name="Suite" finished-at="2023-08-05T20:35:32 PDT" duration-ms="60180">
+=======
   <suite started-at="2023-08-05T20:43:44 PDT" name="Suite" finished-at="2023-08-05T20:45:08 PDT" duration-ms="84007">
+>>>>>>> branch 'master' of https://github.com/AbhiGulhane9/MavenProjectGit.git
     <groups>
     </groups>
+<<<<<<< HEAD
+    <test started-at="2023-08-05T20:34:32 PDT" name="Test" finished-at="2023-08-05T20:35:32 PDT" duration-ms="60180">
+      <class name="bookingSites.GoIbibo">
+        <test-method signature="GoIbiboTest()[pri:0, instance:bookingSites.GoIbibo@7b98f307]" started-at="2023-08-05T20:35:21 PDT" name="GoIbiboTest" finished-at="2023-08-05T20:35:32 PDT" duration-ms="11324" status="PASS">
+=======
     <test started-at="2023-08-05T20:43:44 PDT" name="Test" finished-at="2023-08-05T20:45:08 PDT" duration-ms="84007">
       <class name="bookingSites.GoIbibo">
         <test-method signature="GoIbiboTest()[pri:0, instance:bookingSites.GoIbibo@7b98f307]" started-at="2023-08-05T20:44:53 PDT" name="GoIbiboTest" finished-at="2023-08-05T20:45:08 PDT" duration-ms="14785" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AbhiGulhane9/MavenProjectGit.git
           <reporter-output>
             <line>
               <![CDATA[Opening MakeMyTrip]]>
@@ -34,7 +44,11 @@
         </test-method> <!-- GoIbiboTest -->
       </class> <!-- bookingSites.GoIbibo -->
       <class name="bookingSites.RedBus">
+<<<<<<< HEAD
+        <test-method signature="RedbusTest()[pri:0, instance:bookingSites.RedBus@7b2bbc3]" started-at="2023-08-05T20:34:32 PDT" name="RedbusTest" finished-at="2023-08-05T20:34:44 PDT" duration-ms="11794" status="PASS">
+=======
         <test-method signature="RedbusTest()[pri:0, instance:bookingSites.RedBus@7b2bbc3]" started-at="2023-08-05T20:43:44 PDT" name="RedbusTest" finished-at="2023-08-05T20:43:59 PDT" duration-ms="15557" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AbhiGulhane9/MavenProjectGit.git
           <reporter-output>
             <line>
               <![CDATA[Opening RedBus]]>
@@ -43,7 +57,11 @@
         </test-method> <!-- RedbusTest -->
       </class> <!-- bookingSites.RedBus -->
       <class name="bookingSites.Trivago">
+<<<<<<< HEAD
+        <test-method signature="TrivagoTest()[pri:0, instance:bookingSites.Trivago@71d44a3]" started-at="2023-08-05T20:35:10 PDT" name="TrivagoTest" finished-at="2023-08-05T20:35:21 PDT" duration-ms="10739" status="PASS">
+=======
         <test-method signature="TrivagoTest()[pri:0, instance:bookingSites.Trivago@71d44a3]" started-at="2023-08-05T20:44:39 PDT" name="TrivagoTest" finished-at="2023-08-05T20:44:53 PDT" duration-ms="14315" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AbhiGulhane9/MavenProjectGit.git
           <reporter-output>
             <line>
               <![CDATA[Opening Trivago]]>
@@ -52,7 +70,11 @@
         </test-method> <!-- TrivagoTest -->
       </class> <!-- bookingSites.Trivago -->
       <class name="bookingSites.Paytm">
+<<<<<<< HEAD
+        <test-method signature="Paytmtest()[pri:0, instance:bookingSites.Paytm@73a1e9a9]" started-at="2023-08-05T20:35:02 PDT" name="Paytmtest" finished-at="2023-08-05T20:35:10 PDT" duration-ms="8529" status="PASS">
+=======
         <test-method signature="Paytmtest()[pri:0, instance:bookingSites.Paytm@73a1e9a9]" started-at="2023-08-05T20:44:29 PDT" name="Paytmtest" finished-at="2023-08-05T20:44:39 PDT" duration-ms="9760" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AbhiGulhane9/MavenProjectGit.git
           <reporter-output>
             <line>
               <![CDATA[Opening Paytm]]>
@@ -61,7 +83,11 @@
         </test-method> <!-- Paytmtest -->
       </class> <!-- bookingSites.Paytm -->
       <class name="bookingSites.IRCTC">
+<<<<<<< HEAD
+        <test-method signature="IrctcTest()[pri:0, instance:bookingSites.IRCTC@14cd1699]" started-at="2023-08-05T20:34:44 PDT" name="IrctcTest" finished-at="2023-08-05T20:34:50 PDT" duration-ms="5634" status="PASS">
+=======
         <test-method signature="IrctcTest()[pri:0, instance:bookingSites.IRCTC@14cd1699]" started-at="2023-08-05T20:44:00 PDT" name="IrctcTest" finished-at="2023-08-05T20:44:15 PDT" duration-ms="15899" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AbhiGulhane9/MavenProjectGit.git
           <reporter-output>
             <line>
               <![CDATA[Opening IRCTC]]>
@@ -70,7 +96,11 @@
         </test-method> <!-- IrctcTest -->
       </class> <!-- bookingSites.IRCTC -->
       <class name="bookingSites.MakeMyTrip">
+<<<<<<< HEAD
+        <test-method signature="MakeMyTripTest()[pri:0, instance:bookingSites.MakeMyTrip@77888435]" started-at="2023-08-05T20:34:50 PDT" name="MakeMyTripTest" finished-at="2023-08-05T20:35:02 PDT" duration-ms="12025" status="PASS">
+=======
         <test-method signature="MakeMyTripTest()[pri:0, instance:bookingSites.MakeMyTrip@77888435]" started-at="2023-08-05T20:44:15 PDT" name="MakeMyTripTest" finished-at="2023-08-05T20:44:29 PDT" duration-ms="13460" status="PASS">
+>>>>>>> branch 'master' of https://github.com/AbhiGulhane9/MavenProjectGit.git
           <reporter-output>
             <line>
               <![CDATA[Opening MakeMyTrip]]>
