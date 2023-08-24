@@ -9,6 +9,7 @@ public class GoIbibo {
   @Test
   public void GoIbiboTest() throws InterruptedException 
   {
+	  System.setProperty("webdriver.chrome.driver","F:\\Browesrs Data and selelium app down\\chromedriver-win64\\chromedriver.exe" );
 	  WebDriver driver = new ChromeDriver();
 	  Reporter.log("Opening MakeMyTrip", true);
 	  driver.get("https://www.makemytrip.com/");
